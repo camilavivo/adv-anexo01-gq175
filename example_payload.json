@@ -1,0 +1,119 @@
+{
+  "nome_produto": "Hidroral",
+  "tabela3_simplificada": [
+    {
+      "item": "Nome do produto",
+      "descricao": "Hidroral"
+    },
+    {
+      "item": "DCB do(s) IFA(s)",
+      "descricao": "cloreto de sódio, cloreto de potássio, citrato de sódio dihidratado, glicose"
+    },
+    {
+      "item": "Concentração",
+      "descricao": "Cloreto de sódio 3,5 g; Cloreto de potássio 1,5 g; Citrato de sódio dihidratado 2,9 g; Glicose 20 g (por 29,44 g de pó)"
+    },
+    {
+      "item": "Forma farmacêutica",
+      "descricao": "Pó para solução oral"
+    },
+    {
+      "item": "Via de administração",
+      "descricao": "Uso oral"
+    },
+    {
+      "item": "Restrição de uso",
+      "descricao": "Adulto e pediátrico"
+    },
+    {
+      "item": "Conteúdo da embalagem",
+      "descricao": "4 unidades de 29,44 g cada"
+    },
+    {
+      "item": "Dados Variáveis",
+      "descricao": "Lote · Validade · Fabricação · EAN-13"
+    },
+    {
+      "item": "Código de barras / Identificador Embalagem Primária",
+      "descricao": "EAN-13 válido 7896230303652"
+    },
+    {
+      "item": "Código de barras / Identificador Embalagem Secundária",
+      "descricao": "EAN-13 válido 7896230303652"
+    },
+    {
+      "item": "Composição",
+      "descricao": "Cloreto de sódio 3,5 g; Cloreto de potássio 1,5 g; Citrato de sódio dihidratado 2,9 g; Glicose 20 g (por 29,44 g)"
+    },
+    {
+      "item": "Indicação",
+      "descricao": "Reposição hidroeletrolítica por via oral"
+    },
+    {
+      "item": "Modo de usar",
+      "descricao": "Dissolver 1 sachê em 200 mL de água potável"
+    },
+    {
+      "item": "Cuidado de Conservação",
+      "descricao": "Conservar entre 15 °C e 30 °C, em local seco, protegido da luz e umidade"
+    },
+    {
+      "item": "Advertências",
+      "descricao": "TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS. Siga corretamente o modo de usar. MEDICAMENTO NOTIFICADO."
+    },
+    {
+      "item": "Características organolépticas",
+      "descricao": "Não visível na arte"
+    },
+    {
+      "item": "Nome do Farmacêutico Responsável + CRF",
+      "descricao": "Dra. Luciana Ferrara de Vivo – CRF-SP 15.836"
+    },
+    {
+      "item": "Nome da empresa notificadora",
+      "descricao": "Laboratório Tayuyna Ltda. / ADV FARMA"
+    },
+    {
+      "item": "Produzido por",
+      "descricao": "Laboratório Tayuyna Ltda."
+    },
+    {
+      "item": "Comercializado/Distribuído por",
+      "descricao": "Laboratório Tayuyna Ltda."
+    },
+    {
+      "item": "SAC",
+      "descricao": "0800 130 4345 / www.advfarma.com.br"
+    },
+    {
+      "item": "Número da AFE / Processo ANVISA",
+      "descricao": "AFE 7.54286 / RDC 576/21"
+    }
+  ],
+  "tabela4_simplificada": [
+    {
+      "item": "Frases de alerta adicionais",
+      "descricao": "Não se aplica"
+    },
+    {
+      "item": "Tall Man Lettering",
+      "descricao": "Não se aplica"
+    },
+    {
+      "item": "Cuidados de conservação adicionais",
+      "descricao": "Proteger da luz e umidade"
+    },
+    {
+      "item": "Validade após aberto",
+      "descricao": "Não aplicável (sachê dose única)"
+    },
+    {
+      "item": "Folheto informativo",
+      "descricao": "Não aplicável (LMN)"
+    },
+    {
+      "item": "Dizeres sobre aditivos",
+      "descricao": "Não visível na arte"
+    }
+  ]
+}
